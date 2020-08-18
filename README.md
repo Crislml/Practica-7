@@ -56,38 +56,11 @@ YJGGIU
 ## *TABULACIÓN DE DATOS*
 
 
-|  RL(Ω)   |  Corriente medida (mA) | Voltaje medido (V)   | Potencia calculada Experimentalmente (W)|Potencia calculada teoricamente (W)  |
-|:--------:|:---------:|:--------:|:---------:|:--------:|
-|  220      | 10,6 |  2,32  | 0,02459  |  0,02455   |
-|  470      | 8,98  |  4,22    |  0,0379    |   0,03792    |
-|  680      |  7,98  |  5,43    |  0,04331   |   0,04328    |
-|  820      | 7,43 | 6,09  | 0,04524 |  0,04521 |
-|  1000      |   6,82  |  6,82   |   0,04651    |  0,04648    |
-|  1500      |   5,56  | 8,33  |  0,04631   |   0,04629    |
-|  1800      | 5 |  9 | 0,045|  0,045 |
-|  2200      |   4,1  |   9,71  |   0,04282 |   0,04282    |
-|  3900      |   2,94  |  11,5   |  0,03381 |   0,03374    |
-|  4700      | 2,54 |  11,9   | 0,03023  |  0,03038  |
 
-TABLA II. Comprobación de la máxima transferencia de potencia.
 
 
 ## *Ecuaciones*
 
-Las ecuaciones que vamos a utilizar para este tema, prácticamente son las mismas de temas anteriores.
-
-Lo que hay que tomar en cuenta que para comprobar este teorema o realizar ejercicios de este mismo, lo que debemos saber son , las metodologías del teorema de thevenin y el de Norton , por lo que de ahi, las ecuaciones que estariamos utilizando, practicamente serían las mismas pero añadiendole estas formulas que son las de la potencia o potencia máxima.
-
-
-![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/Formula.png)
-
-Fig 7.  Formula de la potencia máxima.
-
-La resistencia de Thévenin es la resultante de todas las resistencia en el circuito pero apagado las fuentes y se denomina como (Rth)
-
-El voltaje de Thévenin esta denominado con (Vth):
-
-Vth=In.Rth
 
 Donde In vendría ser la intensidad de donde quitamos la resistencia , cumpliendose Ley de Ohm y las unidades son las mismas.
 
@@ -145,7 +118,7 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 
 ## *CRONOGRAMA*
 
-![alt text](https://github.com/Kevi7k/Practica6/blob/master/Cronograma/Cronograma1.jpg)
+![alt text]()
 
 ## *BIBLIOGRAFÍA*
 
@@ -153,6 +126,6 @@ Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos
 
 ## *ANEXOS*
 
-![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/mediciones2.jpg)
+![alt text]()
 
-Figura 5. Medición de voltaje y corriente en la resistencia de carga del circuito.
+Figura 5. 
