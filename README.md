@@ -84,7 +84,7 @@ La frecuencia es la cantidad inversa del período y está relacionada con la fre
 
 1.-Arme el circuito que se muestra en la figura.
  
- ![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/diagrama%204.png)
+ ![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/diagrama.png)
  
  Fig 5.   Circuito a ser simulado.
 
