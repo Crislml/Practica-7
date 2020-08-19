@@ -118,6 +118,20 @@ Pero si queremos la ecuación en forma de coseno tenemos:
 
 V(t)=VpCos(Wt+θ+π/2).
 
+Ecuación para determinar el voltaje o período a partir del número de divisiones y la escala.
+
+![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/Ecuaci%C3%B3n.png)
+
+## *DIAGRAMA*
+
+![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito_osciloscopio.png)
+
+Figura 6. Circuito implementado con osciloscopio.
+
+ **EXPLICACIÓN DEL CIRCUITO**
+
+
+
 ## *PREGUNTAS*
 
 1. **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
@@ -157,21 +171,17 @@ V(t)=VpCos(Wt+θ+π/2).
 
 7. **Con el multímetro digital mida el voltaje de salida en RL:**
 
-	En la resistencia RL se obtiene un voltaje con un valor de 4.85 V.
+	https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito_mult%C3%ADmetro.png
+	
+	Fig. 7. Medición del voltaje en la resistencia RL.
+	
+	En la resistencia RL se obtiene un voltaje con un valor de 4.865 V.
 
 8. **Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. ¿Coinciden?¿Por qué?**
 
-	Estos valores no coinciden porque el voltaje que hemos obtenido del osciloscopio corresponde al Voltaje pico = 6.82 V, mientras que el voltaje que nos da el multímetro 	es el Voltaje rms = 4.85 V. Para que estos valores coincidan tendremos que convertir el Voltaje pico en rms diviéndolo para raíz de 2, con lo que se obtiene un valor de 	 4.82 V que es un valor aproximado al obtenido en la medición del multímetro.
+	Estos valores no coinciden porque el voltaje que hemos obtenido del osciloscopio corresponde al Voltaje pico = 6.82 V, mientras que el voltaje que nos da el multímetro 	es el Voltaje rms = 4.865 V. Para que estos valores coincidan tendremos que convertir el Voltaje pico en rms diviéndolo para raíz de 2, con lo que se obtiene un valor de 	 4.82 V que es un valor aproximado al obtenido en la medición del multímetro.
 
 
-
-## *DIAGRAMA*
-
-![alt text]()
-
-Figura 6. 
-
-## *EXPLICACIÓN DEL CIRCUITO*
 
 
 
@@ -208,6 +218,6 @@ Lifeder, Onda senoidal recuperado de https://www.lifeder.com/onda-senoidal/
 
 ## *ANEXOS*
 
-![alt text]()
+![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/Hoja%20de%20c%C3%A1lculos.jpg)
 
-Figura 5. 
+Figura 5.  Calculos de distintos parámetros eléctricos.
