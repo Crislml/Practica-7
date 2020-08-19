@@ -18,19 +18,12 @@
 
 | Cantidad | Material de Equipo |
 | ------------- | ------------- |
-| 1  | Fuente de voltaje de C.D. |
+| 1  | Generador de Funciones |
+|  1 | Osciloscopio  |
 | 1  | Multímetro digital |
-|  1 | Resistor de 220  |
-|  1 | Resistor de 470 |
-|  1 | Resistor de 680  |
-|  1 | Resistor de 820 |
 |  1 | Resistor de 1k  |
-|  1 | Resistor  de 1.5k    |
-|  1 | Resistor  de 1.8k      |
 |   1 | Resistor  de 2.2k     |
-|  1  | Resistor  de  3.9k    |
-|  1  | Resistor  de  4.7k   |
-|  1  | Protoboar      |
+|  1  | Protoboard      |
 
 Tabla 1. Materiales
 ## *MARCO TEÓRICO*
