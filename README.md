@@ -171,7 +171,8 @@ Figura 6. Circuito implementado con osciloscopio.
 
 7. **Con el multímetro digital mida el voltaje de salida en RL:**
 
-	https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito_mult%C3%ADmetro.png
+	
+	![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito_mult%C3%ADmetro.png)
 	
 	Fig. 7. Medición del voltaje en la resistencia RL.
 	
