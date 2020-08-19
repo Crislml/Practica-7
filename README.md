@@ -5,11 +5,11 @@
 
 ## *OBJETIVOS*
 # Objetivo general
-- 
+- Determinar con simulaciones las características de las señales senoidales.
 
 # Objetivos específico
-- Comprender la metodología del teorema de la máxima transferencia de potencia para reafirmar los conocimientos previamente adquiridos.
-- Encontrar la resistencia aproximada en la cual se obtiene la mayor transferencia de potencia.
+- Comprender la importancia sobre las gráficas senoidales en los análisis de los circuitos.
+- Analizar el funcionamiento de un osciloscopio en esta práctica.
 - Analizar los resultados teóricos con los prácticos mediante la comparación de los mismos para la obtención de porcentajes de error respectivos.
 
 
@@ -150,17 +150,17 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 
 
 ## *CONCLUSIONES*
+1.- Al final se pudo comprender como se relaciona estas gráficas senoidales con el voltaje obtenido en el circuito utilizando el osciloscopio.
 
+2.- En el momento de obtener los datos sobre los voltajes, no hay que confundir el  voltaje rms con el voltaje Pico.
 
 
 ## *RECOMENDACIONES*
-1.- Para realizar una práctica exitosa se debe tener conocimiento previo adquirido, principalmente el teorema de Thévenin, para poder relacionar la teoría aprendida con la simulación.
+1.- Para realizar una práctica exitosa se debe tener conocimiento previo adquirido, principalmente entender perfectamente como es una onda senoidal.
 
-2.- Tener en cuenta que en esta práctica el dato teórico con el que comparamos nuestros resultados es calculado a partir de otras mediciones, a menos que se utilice un simulador de laboratorio que pueda medir potencia.
+2.- Tener cuidado al momento de aproximar los valores que calculamos teóricamente ya que si lo hacemos mal , nos dará un porcentaje de error más alto de lo esperado.
 
-3.- Tener cuidado al momento de aproximar los valores que calculamos teóricamente ya que si lo hacemos mal , nos dará un porcentaje de error más alto de lo esperado.
-
-4.- Realizar paso a paso la práctica, siguiendo en orden el prodecimiento ya establecido en las guías de laboratorio, para así no cometer errores. 
+3.- Realizar paso a paso la práctica, siguiendo en orden el prodecimiento ya establecido en las guías de laboratorio, para así no cometer errores. 
 
 
 ## *CRONOGRAMA*
