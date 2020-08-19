@@ -92,13 +92,6 @@ La frecuencia es la cantidad inversa del período y está relacionada con la fre
 
 3.-Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
-
-## *TABULACIÓN DE DATOS*
-
-
-
-
-
 ## *Ecuaciones*
 
 Las ecuaciones en esta sección serán exclusivamente de la interpretación gráfica senoidal, obteniendo las siguientes formulas:
@@ -170,6 +163,8 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 ## *BIBLIOGRAFÍA*
 
 Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos. Tercera edición. México: McGrawHill, 2004.
+
+Lifeder, Onda senoidal recuperado de https://www.lifeder.com/onda-senoidal/
 
 ## *ANEXOS*
 
