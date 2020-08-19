@@ -175,17 +175,13 @@ Figura 6. Circuito implementado con osciloscopio.
 	
 	![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito_mult%C3%ADmetro.png)
 	
-	Fig. 7. Medición del voltaje en la resistencia RL.
+	Fig. 6. Medición del voltaje en la resistencia RL.
 	
 	En la resistencia RL se obtiene un voltaje con un valor de 4.865 V.
 
 8. **Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. ¿Coinciden?¿Por qué?**
 
-	Estos valores no coinciden porque el voltaje que hemos obtenido del osciloscopio corresponde al Voltaje pico = 6.82 V, mientras que el voltaje que nos da el multímetro 	es el Voltaje rms = 4.865 V. Para que estos valores coincidan tendremos que convertir el Voltaje pico en rms diviéndolo para raíz de 2, con lo que se obtiene un valor de 	 4.8225 V que es un valor aproximado al obtenido en la medición del multímetro.
-
-
-
-
+	Estos valores no coinciden porque el voltaje que hemos obtenido del osciloscopio corresponde al Voltaje pico = 6.82 V, mientras que el voltaje que nos da el multímetro 	es el Voltaje rms = 4.865 V. Para que estos valores coincidan tendremos que convertir el Voltaje pico en rms diviéndolo para raíz de 2, con lo que se obtiene un valor de 	 4.8225 V que es un valor aproximado al obtenido en la medición del multímetro. (Véase en anexos)
 
 
 ## *ANÁLISIS DE RESULTADOS*
@@ -204,31 +200,37 @@ Error relativo = 0.87 %
 
 
 ## *CONCLUSIONES*
-1.- Al final se pudo comprender como se relaciona estas gráficas senoidales con el voltaje obtenido en el circuito utilizando el osciloscopio.
 
-2.- En el momento de obtener los datos sobre los voltajes, no hay que confundir el  voltaje rms con el voltaje Pico.
+1. El uso del osciloscopio nos permitió comprender como se relacionan las ondas senoidales con el voltaje en función del tiempo, obtenido en el circuito. Además se han esclarecido conceptos fundamentales que nos permiten entender de mejor manera el comportamiento en forma gráfica de la corriente alterna frente a un resistor RL.
 
+2. Gracias a la práctica fue posible adquirir nuevo conocimientos acerca de la lectura de parámetros eléctricos importantes que se relacionan entre sí, tales como el voltaje y período que nos permiten calcular otros medidas indirectas, entre ellas está la frecuencia natural y angular.
+
+3. La lectura de voltaje obtenida del osciloscopio no coincide directamente con la medida obtenida en el multímetro, principalmente porque ambos intrumentos nos arrojan diferentes tipos de voltaje, en el caso del osciloscopio nos da el valor pico y en el multímetro se obtiene el valor eficaz (rms).
+
+4. Al calcular el valor rms, a partir del voltaje pico obtenemos un valor de 4.865 V, que al compararlo con el valor que nos da el multímetro (4.865 V), vemos que hay un error sumamente pequeño de 0.87%, con lo cual corroboramos que se ha efectuado correctamente la práctica.
 
 ## *RECOMENDACIONES*
-1.- Para realizar una práctica exitosa se debe tener conocimiento previo adquirido, principalmente entender perfectamente como es una onda senoidal.
+1. Para realizar una práctica exitosa se debe tener conocimiento previo adquirido, principalmente entender perfectamente como es una onda senoidal.
 
-2.- Tener cuidado al momento de aproximar los valores que calculamos teóricamente ya que si lo hacemos mal , nos dará un porcentaje de error más alto de lo esperado.
+2. En el momento de obtener los datos sobre los voltajes, no hay que confundir el  voltaje rms con el voltaje Pico.
 
-3.- Realizar paso a paso la práctica, siguiendo en orden el prodecimiento ya establecido en las guías de laboratorio, para así no cometer errores. 
+3. Tener cuidado al momento de aproximar los valores que calculamos teóricamente ya que si lo hacemos mal , nos dará un porcentaje de error más alto de lo esperado.
+
+4. Realizar paso a paso la práctica, siguiendo en orden el prodecimiento ya establecido en las guías de laboratorio, para así no cometer errores. 
 
 
 ## *CRONOGRAMA*
 
-![alt text]()
+![alt text](https://github.com/Crislml/Practica-7/blob/master/Cronograma/Cronograma.png)
 
 ## *BIBLIOGRAFÍA*
 
 Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos. Tercera edición. México: McGrawHill, 2004.
 
-Lifeder, Onda senoidal recuperado de https://www.lifeder.com/onda-senoidal/
+Lifeder, Onda senoidal. Recuperado de: https://www.lifeder.com/onda-senoidal/
 
 ## *ANEXOS*
 
 ![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/Hoja%20de%20c%C3%A1lculos.jpg)
 
-Figura 5.  Calculos de distintos parámetros eléctricos.
+Figura 7.  Calculos de distintos parámetros eléctricos.
