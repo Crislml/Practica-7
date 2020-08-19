@@ -27,9 +27,56 @@
 
 Tabla 1. Materiales
 ## *MARCO TEÓRICO*
+El análisis de la señal senoidal, donde quiere decir que en la señal alterna el circuito adquiere dos polaridades (Por donde pasa la corriente) y este circuito es representado:
 
-YJGGIU
+![alt text(https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito%20en%20sentido%20positivo.png)
 
+Fig 1. Circuito en sentido positivo
+
+Este al viajar, va a tomar una segunda dirección, obteniendo dos direcciones distintas, alternando sus polaridades:
+
+![alt text(https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito%20en%20sentido%20negativo.png)
+
+Fig 2. Circuito en sentido negativo
+
+Donde gráficamente el signo positivo se refiere a la cresta positiva y el negativo en la cresta negativa consecuentemente. 
+
+Las ondas senoidales tienen un movimiento periódico que tambien se puede decir que es un patrón. estas matemáticamente son modeladas con funciones trigonométricas, entre esas están el seno y coseno, tiene muchas aplicaciones en agulnos fenómenos físicos, pero en específico sobre los voltajes generados por centrales eléctricas y utilizado en hogares.
+
+En los elementos eléctricos como resitencias, condensadores e inductancias, que estan conectadas en dicho voltaje, un ejemplo gráfico de como son estas ondas senoidales.
+
+![alt text(https://github.com/Crislml/Practica-7/blob/master/Imagenes/Onda%20senoidal.png)
+
+Fig 3. Onda Senoidal.
+
+Estas estan denotadas tanto como en seno y coseno, son iguales estas ondas pero con una pequeña diferencia, una esta adelantada de la otra, obteniendo la siguiente relación:
+Cos(x)=Sen(x+π/2), aquí veremos gráficamente de como se ven ya desplazadas:
+
+![alt text(https://github.com/Crislml/Practica-7/blob/master/Imagenes/Onda%2C%20seno%20y%20coseno.png)
+
+Fig 4. Onda seno y coseno.
+
+Entonces en términos del volataje, la ecuación es la siguiente:
+
+V(t)=VpSen(wt+θ)
+
+Donde el Vp, es la amplitud máxima que alcanza dicha onda, W su frecuencia angular y θ su desplazamiento, donde se los detallara a continuación:
+
+*El periodo*
+
+Es el tiempo que tarda en repetirse una fase de la misma y esta se mide en segundos.
+
+*Amplitud*
+
+Este valor máximo es justamente la amplitud de la onda, también conocida como amplitud pico.
+
+*Ciclo*
+
+Es una parte de la onda contenida en un período, pero puede comenzar a medirse desde otros puntos de la onda, mientras estén limitados por un período.
+
+*Frecuencia*
+
+La frecuencia es la cantidad inversa del período y está relacionada con la frecuencia angular ω, donde esta tiene como unidades (rad/s).
 
 
 
