@@ -141,30 +141,27 @@ V(t)=VpCos(Wt+θ+π/2).
 
 -	Amplitud de voltaje: 6.82 V 
 
-
 -	Período: 0.0004 s
 
-	Al no tener una buena visualización se ha calculado el período con lo que hemos podido observar a través del osciloscopio. 
-
-	Haciendo uso de la ecuación (1), presentada anteriormente, tenemos:
-
-
- 
+	El período fue determinado a partir de observaciones del osciloscopio. (Véase en anexos)
 
 6. **Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
 
+	Aplicamos las fórmulas vistas anteriormente y realizamos el cálculo. (Véase en anexos)
+	
 	f: 2500 (Hz) 
 
 	ω: 15707.96 (rad/s) 
-
+	
+	
 
 7. **Con el multímetro digital mida el voltaje de salida en RL:**
 
-	En la resistencia RL se obtiene un voltaje con un valor de 4.85 V
+	En la resistencia RL se obtiene un voltaje con un valor de 4.85 V.
 
 8. **Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. ¿Coinciden?¿Por qué?**
 
-	Estos valores no coinciden porque el voltaje que hemos obtenido del osciloscopio corresponde al Voltaje pico = 6.82 V, mientras que el voltaje que nos da el multímetro 	es el Voltaje rms = 4.85 V. Para que estos valores coincidan tendremos que convertir el Voltaje pico en rms de la siguiente manera:
+	Estos valores no coinciden porque el voltaje que hemos obtenido del osciloscopio corresponde al Voltaje pico = 6.82 V, mientras que el voltaje que nos da el multímetro 	es el Voltaje rms = 4.85 V. Para que estos valores coincidan tendremos que convertir el Voltaje pico en rms diviéndolo para raíz de 2, con lo que se obtiene un valor de 	 4.82 V que es un valor aproximado al obtenido en la medición del multímetro.
 
 
 
