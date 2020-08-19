@@ -2,6 +2,7 @@
 # *CARACTERÍSTICA DE LA ONDA SENOIDAL*
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
+Al empezar a trabajar con fuentes de voltaje alterna, sabemos que ésta, está representada por una gráfica en forma de la función seno, por lo cual debemos saber las características de dicha señal, y como funciona la onda que representará el voltaje o corriente que usaremos como fuente. Para ello deberemos tener claro los conceptos sobre la función seno, como también los conceptos de fuentes alternas, y su diferencia con fuentes continuas, como también será importante saber el funcionamiento y como interpretar el osciloscopio.
 
 ## *OBJETIVOS*
 # Objetivo general
