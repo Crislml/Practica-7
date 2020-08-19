@@ -1,0 +1,16 @@
+CIRCUIT HAXE
+V1 N0 N1 sin(0 10 2500hz 0 0 0)
+R1 N2 N3 991 $ 
+R2 N4 N5 2219.8 $ 
+Rwire1 N2 N0 0.00001
+Rwire2 N4 N3 0.00001
+Rwire3 N5 N1 0.00001
+VRmeter1 N4 N7 dc 0 
+Rmeter1 N7 N5 1000000 $ 
+Rproxy proxynode 0 0.0000001
+.tran 0.01ms 10ms 0.01ms 
+.print dc i(VRmeter1) 
+.print tran i(VRmeter1) 
+.print tran v(N5) v(N7)
+
+.end
