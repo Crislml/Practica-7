@@ -180,7 +180,7 @@ Figura 6. Circuito implementado con osciloscopio.
 
 8. **Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. ¿Coinciden?¿Por qué?**
 
-	Estos valores no coinciden porque el voltaje que hemos obtenido del osciloscopio corresponde al Voltaje pico = 6.82 V, mientras que el voltaje que nos da el multímetro 	es el Voltaje rms = 4.865 V. Para que estos valores coincidan tendremos que convertir el Voltaje pico en rms diviéndolo para raíz de 2, con lo que se obtiene un valor de 	 4.82 V que es un valor aproximado al obtenido en la medición del multímetro.
+	Estos valores no coinciden porque el voltaje que hemos obtenido del osciloscopio corresponde al Voltaje pico = 6.82 V, mientras que el voltaje que nos da el multímetro 	es el Voltaje rms = 4.865 V. Para que estos valores coincidan tendremos que convertir el Voltaje pico en rms diviéndolo para raíz de 2, con lo que se obtiene un valor de 	 4.8225 V que es un valor aproximado al obtenido en la medición del multímetro.
 
 
 
@@ -188,8 +188,17 @@ Figura 6. Circuito implementado con osciloscopio.
 
 
 ## *ANÁLISIS DE RESULTADOS*
-En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:
+En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ha realizado el cálculo del error relativo del voltaje obtenido del osciloscopio con respecto al valor resultante de la medición del multímetro de voltaje en la resistencia RL. En nuestro caso consideraremos el resultado del multímetro como el valor teórico.
 
+| V. osciloscopio | V. multímetro |
+| ------------- | ------------- |
+|4.8225  V | 4.865 V  |
+
+Error relativo = |(Valor teórico - Valor experimental)/ Valor teórico | x 100%
+
+Error relativo = |(4.865 - 4.8225)/ 4.865 | x 100%
+
+Error relativo = 0.87 %
 
 
 
