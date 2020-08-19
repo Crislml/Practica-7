@@ -88,9 +88,9 @@ La frecuencia es la cantidad inversa del período y está relacionada con la fre
  
  Fig 5.   Circuito a ser simulado.
 
-2.- Mida el voltaje y la corriente para cada valor de RL que se indica en la fig 5, anote los resultados medidos.
+2.-Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
-3.- Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 2.
+3.-Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
 
 ## *TABULACIÓN DE DATOS*
@@ -101,22 +101,29 @@ La frecuencia es la cantidad inversa del período y está relacionada con la fre
 
 ## *Ecuaciones*
 
+Las ecuaciones en esta sección serán exclusivamente de la interpretación gráfica senoidal, obteniendo las siguientes formulas:
 
-Donde In vendría ser la intensidad de donde quitamos la resistencia , cumpliendose Ley de Ohm y las unidades son las mismas.
+Frecuencia angular (W)
 
-Intensidad=Amperio (A)
+W=2πf
 
-Voltaje=Voltio (V)
+Frecuencia (f)
 
-Resistencia= Ohmio (omega)
+f=1/T
 
-Para encontrar las corrientes necesarias para el calculo de voltajes, tanto en el circuito original como en el circuito de Thévenin será necesario hacer uso de las leyes de Kirchoff. De manera que:
+Ecuación de la onda:
 
-V1+V2+V3+V4+...Vn=0
+V(t)=VpSen(wt+θ)
 
-Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir la sumatoria de voltajes dentro de una malla es igual a cero, afirmando esto, se cumple otra ley que nos habla sobres las corrientes. Es muy útil si para el cálculo realizaramos un análisis nodal
+La amplitud vendría a ser el valor pico que alcanza la onda (Vp)
 
-I(salida)=I(entrada)
+Fase:
+
+Vendría a ser lo que se desplaza la onda en θ y sus unidades (radianes)
+
+Pero si queremos la ecuación en forma de coseno tenemos:
+
+V(t)=VpCos(Wt+θ+π/2).
 
 ## *PREGUNTAS*
 
