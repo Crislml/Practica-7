@@ -152,6 +152,7 @@ V(t)=VpCos(Wt+θ+π/2).
  
 
 6. **Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
+
 	f: 2500 (Hz) 
 
 	ω: 15707.96 (rad/s) 
