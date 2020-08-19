@@ -120,23 +120,22 @@ V(t)=VpCos(Wt+θ+π/2).
 
 ## *PREGUNTAS*
 
-Preguntas
 1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 
-La amplitud pico abarca aproximadamente 2.3 divisiones por cuadro. De manera que de pico a pico se hay un total de 4.6 divisiones por cuadro.
+	La amplitud pico abarca aproximadamente 2.3 divisiones por cuadro. De manera que de pico a pico se hay un total de 4.6 divisiones por cuadro.
 
 
 2. ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
-La perilla se ubicó en 3, lo cual nos indica que la escala corresponde a 3 voltios por división.
+	La perilla se ubicó en 3, lo cual nos indica que la escala corresponde a 3 voltios por división.
 
 3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
 
-Existen 0.8 divisiones en un ciclo que recorre nuestra onda, contando en el eje horizontal, es decir el eje del tiempo.
+	Existen 0.8 divisiones en un ciclo que recorre nuestra onda, contando en el eje horizontal, es decir el eje del tiempo.
 
 4. ¿En qué valor está posicionada la perilla TIME/DIV? _
 
-La perilla se ubicó en 0.5, lo cual nos indica que la escala corresponde a 0.5 milisegundos por cada división.
+	La perilla se ubicó en 0.5, lo cual nos indica que la escala corresponde a 0.5 milisegundos por cada división.
 
 5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio? 
 
@@ -145,26 +144,26 @@ La perilla se ubicó en 0.5, lo cual nos indica que la escala corresponde a 0.5 
 
 -	Período: 0.0004 s
 
-Al no tener una buena visualización se ha calculado el período con lo que hemos podido observar a través del osciloscopio. 
+	Al no tener una buena visualización se ha calculado el período con lo que hemos podido observar a través del osciloscopio. 
 
-Haciendo uso de la ecuación (1), presentada anteriormente, tenemos:
+	Haciendo uso de la ecuación (1), presentada anteriormente, tenemos:
 
 
  
 
 6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida. 
-	f: (Hz) 
+	f: 2500 (Hz) 
 
-ω: (rad/s) 
+	ω: 15707.96 (rad/s) 
 
 
 7. Con el multímetro digital mida el voltaje de salida en RL: 
 
-En la resistencia RL se obtiene un voltaje con un valor de 4.85 V
+	En la resistencia RL se obtiene un voltaje con un valor de 4.85 V
 
 8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. ¿Coinciden?¿Por qué?
 
-Estos valores no coinciden porque el voltaje que hemos obtenido del osciloscopio corresponde al Voltaje pico = 6.82 V, mientras que el voltaje que nos da el multímetro es el Voltaje rms = 4.85 V. Para que estos valores coincidan tendremos que convertir el Voltaje pico en rms de la siguiente manera:
+	Estos valores no coinciden porque el voltaje que hemos obtenido del osciloscopio corresponde al Voltaje pico = 6.82 V, mientras que el voltaje que nos da el multímetro 	es el Voltaje rms = 4.85 V. Para que estos valores coincidan tendremos que convertir el Voltaje pico en rms de la siguiente manera:
 
 
 
