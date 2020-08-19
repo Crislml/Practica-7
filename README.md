@@ -131,7 +131,11 @@ Figura 6. Circuito implementado con osciloscopio.
 
  **EXPLICACIÓN DEL CIRCUITO**
 
+Nuestro circuito consta de una fuente alterna, que será nuestro generador de funciones, dos resistencias, una de 1000 ohmios, y la segunda que será nuestra resistencia L, que será de 2200 ohmios. Al tener una fuente de voltaje alterno, tendremos como resultado una función sinusoidal, es decir que la gráfica de dicho voltaje describirá la función seno.
 
+Al momento de implementar nuestra fuente, debemos tener en cuenta y fijarnos que la fuente este puesta en voltaje pico a pico, ya que este ese el valor que nos dan como dato, que es de 20 voltios. 
+
+Para tomar las respectivas mediciones, deberemos utilizar nuestro osciloscopio ya que estamos trabajando con señal alterna. Al momento de conectar el osciloscopio, vemos perillas que indican cuantos voltios equivalen por cada cuadro que está presente en nuestro gráfico, que serán 3 cuadros por cada voltio, en donde vemos que, la amplitud de nuestro circuito será de 4.6, ya que se toma en cuenta dos veces el 2.3 que tenemos en nuestra primera cresta. Con ello podemos calcular nuestro Voltaje pico, y a partir de este procederemos a calcular el Voltaje RMS, que será el voltaje pico dividido para la raíz de 2.
 
 ## *PREGUNTAS*
 
