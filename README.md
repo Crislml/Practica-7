@@ -29,13 +29,13 @@ Tabla 1. Materiales
 ## *MARCO TEÓRICO*
 El análisis de la señal senoidal, donde quiere decir que en la señal alterna el circuito adquiere dos polaridades (Por donde pasa la corriente) y este circuito es representado:
 
-![alt text(https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito%20en%20sentido%20positivo.png)
+![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito%20en%20sentido%20positivo.png)
 
 Fig 1. Circuito en sentido positivo
 
 Este al viajar, va a tomar una segunda dirección, obteniendo dos direcciones distintas, alternando sus polaridades:
 
-![alt text(https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito%20en%20sentido%20negativo.png)
+![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito%20en%20sentido%20negativo.png)
 
 Fig 2. Circuito en sentido negativo
 
@@ -45,14 +45,14 @@ Las ondas senoidales tienen un movimiento periódico que tambien se puede decir 
 
 En los elementos eléctricos como resitencias, condensadores e inductancias, que estan conectadas en dicho voltaje, un ejemplo gráfico de como son estas ondas senoidales.
 
-![alt text(https://github.com/Crislml/Practica-7/blob/master/Imagenes/Onda%20senoidal.png)
+![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/Onda%20senoidal.png)
 
 Fig 3. Onda Senoidal.
 
 Estas estan denotadas tanto como en seno y coseno, son iguales estas ondas pero con una pequeña diferencia, una esta adelantada de la otra, obteniendo la siguiente relación:
 Cos(x)=Sen(x+π/2), aquí veremos gráficamente de como se ven ya desplazadas:
 
-![alt text(https://github.com/Crislml/Practica-7/blob/master/Imagenes/Onda%2C%20seno%20y%20coseno.png)
+![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/Onda%2C%20seno%20y%20coseno.png)
 
 Fig 4. Onda seno y coseno.
 
